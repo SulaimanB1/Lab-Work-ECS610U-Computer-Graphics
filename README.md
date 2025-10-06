@@ -1,6 +1,6 @@
 # Introduction Computer Graphics Projects (ECS610U Computer Graphics)
 
-A series of intro computer graphics projects made in GLSL. These projects were made for laboratory work in QMUL ECS610U Computer Graphics.
+A series of a few intro computer graphics projects made in GLSL. These projects were made for laboratory work in QMUL ECS610U Computer Graphics.
 
 # Links to different assignments:
 
